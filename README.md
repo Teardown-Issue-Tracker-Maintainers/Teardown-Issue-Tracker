@@ -13,7 +13,7 @@ When creating a new issue, you will be prompted to choose an issue template to s
 
 **Step 1: Choose a template for your issue**
 
-![step1](https://user-images.githubusercontent.com/25854043/111225086-582b4800-85ad-11eb-9aff-a70359ea28f4.png)
+![step1](https://user-images.githubusercontent.com/25854043/111227523-b279d800-85b0-11eb-8751-552b21408cc3.png)
 
 
 **Step 2: Fill out the template**
