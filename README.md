@@ -9,7 +9,7 @@ View existing issues [here](https://github.com/ss-gnalvesteffer/Teardown-Issue-T
 
 Create a new issue [here](https://github.com/ss-gnalvesteffer/Teardown-Issue-Tracker/issues/new/choose).
 
-When creating a new issue, you will be prompted to choose an issue template to start with. Please pick the appropriate template depending on if you have a bug report, feature request, or question, and try to retain the original format to ensure consistency and readability.
+When creating a new issue, you will be prompted to choose an issue template to start with. Please pick the appropriate template depending on if you have a bug report, feature request, question, or documentation enhancement, and try to retain the original format to ensure consistency and readability.
 
 **Step 1: Choose a template for your issue**
 
