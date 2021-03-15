@@ -10,3 +10,6 @@ When reporting bugs, please provide a summary of what is happening, reproduction
 
 ### Feature Requests
 Feature requests can range from new modding capabilities, ingame content (maps, tools, vehicles, etc), or anything that else that you'd like to see that you think would improve the game.
+
+### Questions
+If you have a question about how things work in the game, or anything else related, feel free to ask.
