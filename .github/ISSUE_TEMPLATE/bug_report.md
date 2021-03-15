@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Report an issue/bug with the game
 title: "[BUG] Title or description of issue"
 labels: bug
 assignees: ''
