@@ -8,12 +8,17 @@
 Create a new issue here: https://github.com/ss-gnalvesteffer/Teardown-Issue-Tracker/issues
 
 **Step 1: Click on the "New Issue" button**
+
 ![step1](https://user-images.githubusercontent.com/25854043/111225141-68dbbe00-85ad-11eb-8e93-d7a5c6eca8f2.png)
 
+
 **Step 2: Choose a template for your issue**
+
 ![step2](https://user-images.githubusercontent.com/25854043/111225086-582b4800-85ad-11eb-9aff-a70359ea28f4.png)
 
+
 **Step 3: Fill out the template**
+
 ![step3](https://user-images.githubusercontent.com/25854043/111225204-81e46f00-85ad-11eb-9f4e-75e0b86228cb.png)
 
 
