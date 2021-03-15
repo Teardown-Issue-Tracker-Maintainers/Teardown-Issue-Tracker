@@ -1,8 +1,8 @@
 ---
 name: Documentation Enhancement
-about: Propose enhancements to Teardown's modding documentation.
+about: Propose enhancements to Teardown's modding documentation
 title: ''
-labels: ''
+labels: documentation, enhancement
 assignees: ''
 
 ---
