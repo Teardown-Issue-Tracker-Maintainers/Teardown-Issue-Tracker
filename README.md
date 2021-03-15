@@ -21,7 +21,7 @@ Create a new issue here: https://github.com/ss-gnalvesteffer/Teardown-Issue-Trac
 
 ![step3](https://user-images.githubusercontent.com/25854043/111225204-81e46f00-85ad-11eb-9f4e-75e0b86228cb.png)
 
-
+----
 
 When creating a new issue, you will be prompted to choose an issue template to start with. Please pick the appropriate template depending on if you have a bug report, feature request, or question, and try to retain the original format to ensure consistency and readability.
 
