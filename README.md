@@ -1,9 +1,12 @@
 # Teardown Issue Tracker
 A public repo for the community to track issues/bugs/feature requests in Teardown.
 
+
 ## How To Use
 Create a new issue here: https://github.com/ss-gnalvesteffer/Teardown-Issue-Tracker/issues
+
 When creating a new issue, you will be prompted to choose an issue template to start with. Please pick the appropriate template depending on if you have a bug or feature request, and try to retain the original format to ensure consistency and readability.
+
 
 ### Bugs
 When reporting bugs, please provide a summary of what is happening, reproduction steps to aide others/devs in recreating the issue on their end, and the expected behavior.
