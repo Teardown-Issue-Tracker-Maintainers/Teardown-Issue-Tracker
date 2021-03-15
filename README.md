@@ -1,5 +1,5 @@
 # Teardown Issue Tracker
-A public repo for the community to track issues/bugs/feature requests in Teardown.
+A public repo for the community to track bugs/feature requests/questions for Teardown.
 
 
 ## How To Use
