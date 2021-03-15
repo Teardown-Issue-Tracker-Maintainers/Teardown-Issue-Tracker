@@ -1,7 +1,7 @@
 ---
 name: Question
 about: Ask a question about the game/engine
-title: "[QUESTION]"
+title: "[Question] Title or description of question"
 labels: question
 assignees: ''
 
