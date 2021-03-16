@@ -5,9 +5,9 @@
 
 
 ## How To Use
-View existing issues [here](https://github.com/ss-gnalvesteffer/Teardown-Issue-Tracker/issues).
+View existing issues [here](https://github.com/Teardown-Issue-Tracker-Maintainers/Teardown-Issue-Tracker/issues).
 
-Create a new issue [here](https://github.com/ss-gnalvesteffer/Teardown-Issue-Tracker/issues/new/choose).
+Create a new issue [here](https://github.com/Teardown-Issue-Tracker-Maintainers/Teardown-Issue-Tracker/issues/new/choose).
 
 When creating a new issue, you will be prompted to choose an issue template to start with. Please pick the appropriate template depending on if you have a bug report, feature request, question, or documentation enhancement, and try to retain the original format to ensure consistency and readability.
 
