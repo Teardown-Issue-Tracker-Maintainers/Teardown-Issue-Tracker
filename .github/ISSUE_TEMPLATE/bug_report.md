@@ -23,9 +23,12 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Environment (please complete the following information):**
- - OS: [e.g. Windows/Linux]
+**System Info**
  - Teardown Version [e.g. 0.6.2 (patch 2) -- this is visible at the bottom-right of the main menu]
+ - OS: [e.g. Windows/Linux]
+ - GPU: 
+ - Graphics driver version:
+ - CPU:
 
 **Additional context**
 Add any other context about the problem here.
