@@ -1,7 +1,7 @@
 # Teardown Issue Tracker
 ![teardownissues](https://user-images.githubusercontent.com/25854043/111224672-c8859980-85ac-11eb-9c6c-06e9b7c7c2ec.png)
 
-**A public repository, monitored by the devs, for the community to track bugs/feature requests/questions for Teardown.**
+**A public repository, monitored by the devs, for the community to report bugs, submit feature requests, or ask questions related to Teardown.**
 
 
 ## How To Use
