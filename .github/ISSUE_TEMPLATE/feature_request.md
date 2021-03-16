@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for the game
 title: "[Feature] Title or description of feature"
-labels: enhancement
+labels: feature request
 assignees: ''
 
 ---

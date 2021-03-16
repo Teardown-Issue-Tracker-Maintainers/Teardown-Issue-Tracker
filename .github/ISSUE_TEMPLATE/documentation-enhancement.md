@@ -2,7 +2,7 @@
 name: Documentation Enhancement
 about: Propose enhancements to Teardown's modding documentation
 title: "[Documentation] Title or description of enhancement"
-labels: documentation, enhancement
+labels: documentation
 assignees: ''
 
 ---
