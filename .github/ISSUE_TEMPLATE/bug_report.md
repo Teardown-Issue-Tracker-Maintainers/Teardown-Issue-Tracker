@@ -23,7 +23,7 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**System Info**
+**Environment**
  - Teardown Version [e.g. 0.6.2 (patch 1) -- this is visible at the bottom-right of the main menu]
  - OS: [e.g. Windows/Linux]
  - GPU: 
