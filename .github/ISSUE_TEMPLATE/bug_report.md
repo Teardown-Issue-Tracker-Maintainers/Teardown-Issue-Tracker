@@ -2,7 +2,7 @@
 name: Bug report
 about: Report an issue/bug with the game
 title: "[Bug] Title or description of issue"
-labels: bug
+labels: issue/bug
 assignees: ''
 
 ---

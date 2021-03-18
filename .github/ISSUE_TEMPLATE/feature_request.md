@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for the game (content, modding capabilities, etc...)
 title: "[Feature] Title or description of feature"
-labels: feature request
+labels: issue/feature request
 assignees: ''
 
 ---
