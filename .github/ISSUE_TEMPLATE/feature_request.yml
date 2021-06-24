@@ -1,6 +1,6 @@
 name: Feature request
 description: Suggest an idea for the game (content, modding capabilities, etc...)
-title: "[Feature] "
+title: "[Feature] ISSUE TITLE HERE"
 labels: [issue/feature, request]
 body:
   - type: textarea
