@@ -1,34 +1,52 @@
----
 name: Bug report
-about: Report an issue/bug with the game
-title: "[Bug] Title or description of issue"
-labels: issue/bug
-assignees: ''
-
----
-
-**Describe the bug**
-A clear and concise description of what the bug is.
-
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
+description: Report an issue/bug with the game
+title: "[Bug] "
+labels: [issue/bug]
+assignees:
+body:
+  - type: textarea
+  id: bug-desc
+  attributes:
+    label: Describe the bug
+    description: A clear and concise description of what the bug is.
+    placeholder: Tell us what happened
+  validations:
+    required: true
+  - type: textarea
+  id: steps
+  attributes:
+    label: Steps to reproduce the behavior
+    description: A clear and concise description of what the bug is.
+    placeholder: Tell us how to reproduce
+    value: "1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
-4. See error
-
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Environment**
- - Teardown Version [e.g. 0.6.2 (patch 1) -- this is visible at the bottom-right of the main menu]
- - OS: [e.g. Windows/Linux]
- - GPU: 
- - Graphics driver version:
- - CPU:
-
-**Additional context**
-Add any other context about the problem here.
+4. See error"
+  validations:
+    required: true
+  - type: textarea
+  id: expected
+  attributes:
+    label: Expected behavior
+    description: A clear and concise description of what you expected to happen.
+    placeholder: What was suppose to happen
+  - type: markdown
+    attributes:
+    value: |
+      If applicable, add screenshots to help explain your problem.
+  - type: textarea
+  id: env
+  attributes:
+    label: Environment
+    description: Your hardware info, game version etc.
+    placeholder: 
+    value: " - Teardown Version [e.g. 0.6.2 (patch 1) -- this is visible at the bottom-right of the main menu]
+- OS: [e.g. Windows/Linux]
+- GPU:
+- Graphics driver version:
+- CPU:"
+  - type: textarea
+  id: additional-context
+  attributes:
+    label: Additional context
+    description: Add any other context about the problem here.
