@@ -30,6 +30,8 @@ body:
       label: Expected behavior
       description: A clear and concise description of what you expected to happen.
       placeholder: What was suppose to happen
+    validations:
+      required: true
   - type: markdown
     attributes:
       value: |
@@ -45,6 +47,8 @@ body:
         - GPU:
         - Graphics driver version:
         - CPU:
+    validations:
+      required: true
   - type: textarea
     id: additional-context
     attributes:
