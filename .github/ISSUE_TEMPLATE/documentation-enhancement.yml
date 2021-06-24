@@ -1,0 +1,17 @@
+name: Documentation Enhancement
+description: Propose enhancements to Teardown's modding documentation
+title: "[Documentation] "
+labels: [issue/documentation]
+body:
+  - type: textarea
+    id: doc-to-improve
+    attributes:
+      label: Document to improve
+      description: |
+        Provide a link to the documentation that you're referring to (e.g. https://teardowngame.com/modding/#editor/filepaths or https://www.teardowngame.com/modding/api.html, etc...)
+  - type: textarea
+    id: enchancement
+    attributes:
+      label: Enhancement
+      description: |
+        Provide a description on what should be improved or added in the documentation (e.g. "fix the example code for GetVersion" or "modding feature X is missing documentation").
