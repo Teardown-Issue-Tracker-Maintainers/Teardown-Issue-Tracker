@@ -9,6 +9,7 @@ body:
       label: Describe the bug
       description: A clear and concise description of what the bug is.
       placeholder: Tell us what happened
+      value: ""
     validations:
       required: true
   - type: textarea
@@ -29,16 +30,17 @@ body:
       label: Expected behavior
       description: A clear and concise description of what you expected to happen.
       placeholder: What was suppose to happen
+      value: ""
   - type: markdown
     attributes:
-    value: |
-      If applicable, add screenshots to help explain your problem.
+      value: |
+        If applicable, add screenshots to help explain your problem.
   - type: textarea
     id: env
     attributes:
       label: Environment
       description: Your hardware info, game version etc.
-      placeholder: 
+      placeholder: ""
       value: " - Teardown Version [e.g. 0.6.2 (patch 1) -- this is visible at the bottom-right of the main menu]
   - OS: [e.g. Windows/Linux]
   - GPU:
@@ -49,3 +51,5 @@ body:
     attributes:
       label: Additional context
       description: Add any other context about the problem here.
+      placeholder: ""
+      value: ""
