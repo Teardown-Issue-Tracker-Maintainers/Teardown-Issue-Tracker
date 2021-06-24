@@ -2,7 +2,6 @@ name: Bug report
 description: Report an issue/bug with the game
 title: "[Bug] "
 labels: [issue/bug]
-assignees:
 body:
   - type: textarea
   id: bug-desc
