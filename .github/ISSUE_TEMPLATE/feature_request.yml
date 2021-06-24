@@ -1,4 +1,4 @@
-label: Feature request
+name: Feature request
 description: Suggest an idea for the game (content, modding capabilities, etc...)
 title: "[Feature] "
 labels: [issue/feature, request]
