@@ -1,6 +1,6 @@
 name: Bug report
 description: Report an issue/bug with the game
-title: "[Bug] "
+title: "[Bug] ISSUE TITLE HERE"
 labels: [issue/bug]
 body:
   - type: textarea
