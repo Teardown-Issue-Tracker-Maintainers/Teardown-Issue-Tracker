@@ -2,7 +2,7 @@
 name: Question
 about: Ask a question about the game/engine
 title: "[Question] Title or description of question"
-labels: issue/question
+labels: question
 assignees: ''
 
 ---
