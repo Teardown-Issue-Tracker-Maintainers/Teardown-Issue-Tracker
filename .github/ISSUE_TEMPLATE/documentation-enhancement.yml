@@ -1,7 +1,7 @@
 name: Documentation Enhancement
 description: Propose enhancements to Teardown's modding documentation
 title: "[Documentation] ISSUE TITLE HERE"
-labels: [issue/documentation]
+labels: [documentation]
 body:
   - type: textarea
     id: doc-to-improve
