@@ -1,4 +1,4 @@
-name: Experimental branch Bug report
+name: "Experimental branch Bug report"
 description: Report an issue/bug with the exprimental branch
 title: "[Bug] ISSUE TITLE HERE"
 labels: [bug] [experimental]
